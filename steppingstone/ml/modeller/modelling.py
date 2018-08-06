@@ -1,5 +1,8 @@
 import json
 
+#from steppingstone import conf
+from steppingstone.ml.storage.database import Storage
+
 
 class Modeller(object):
 
